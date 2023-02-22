@@ -216,7 +216,7 @@ export default defineComponent({
   transition: background-color 0.25s, color 0.25s;
 }
 .Programming {
-  color: blue;
+  color: rgb(122, 145, 236);
 }
 
 .Pun {
@@ -224,11 +224,11 @@ export default defineComponent({
 }
 
 .Misc {
-  color: green;
+  color: rgb(144, 234, 144);
 }
 
 .Spooky {
-  color: purple;
+  color: rgb(215, 110, 215);
 }
 
 </style>
